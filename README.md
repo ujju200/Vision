@@ -1,6 +1,6 @@
 # Vision-
 
-# Arena Description:-
+# Arena Description:--
 1.There are 2 paths (inner and outer square) and there are 4 connecting paths of different colours joining them.
 
 2. Bot can change from outer path to inner path or vice versa. Bot is allowed to move in a clockwise direction only. The portion of the arena in black colour is restricted for the movement of the bot.
