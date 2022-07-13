@@ -2,7 +2,7 @@
 
 **An Autonomous Bot Based On Image processing And Breadth-First Search Path Finding Algorithm.**
 
-This project is based on the instructions given in the following [Problem Statement]().
+This project is based on the instructions given in the following [Problem Statement](https://github.com/ujju20/Vision/blob/main/Vision2.0%20Problem%20Statement-1.pdf).
 
 ![Arena image](https://github.com/ujju20/Vision-/blob/main/test.png)
 
@@ -14,7 +14,7 @@ Along with this repository, it is needed to have the following repository:
 
 Follow the steps given in these repositories and install the packages required.
 
-You can run [Solution.ipynb](https://github.com/ujju20/Vision/blob/main/Solution.ipynb) on the terminal.
+You can run [Solution.ipynb](https://github.com/ujju20/Vision/blob/main/solution.ipynb) on the terminal.
 
 # Approach
 
